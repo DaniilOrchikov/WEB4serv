@@ -1,9 +1,9 @@
 package com.example.web4;
 
 
-import jakarta.persistence.*;
 
 
+import javax.persistence.*;
 import java.io.Serializable;
 
 @Entity
